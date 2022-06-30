@@ -264,7 +264,7 @@ class Game{
         }
 
         if(keyDown(RIGHT_ARROW)){
-            car1.x = car1.x+100;
+            car1.x = car1.x+15;
             car1.changeAnimation("walkingRight", knightWalkingRight);
         }else if(keyWentUp(RIGHT_ARROW))
         { car1.changeAnimation("idleRight", knightIdleRight);}
