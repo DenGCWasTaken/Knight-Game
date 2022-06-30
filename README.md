@@ -1,2 +1,2 @@
-# Knight-Game
-126.423.23.76
+# MovimientoDePelotaAsincorono
+Boilerplate para movimiento de la pelota de forma asíncrona
