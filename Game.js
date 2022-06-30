@@ -259,9 +259,9 @@ class Game{
         car1.velocityY = car1.velocityY-40;
         }
 
-        if(keyIsDown(DOWN_ARROW)){
-            car1.velocityY = car1.velocityY-15;
-        }
+        //if(keyIsDown(DOWN_ARROW)){
+        //    car1.velocityY = car1.velocityY-15;
+        //}
 
         if(keyDown(RIGHT_ARROW)){
             car1.x = car1.x+15;
